@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "dxtasignelis.aternos.me
+    "ip": "histroscope.aternos.me
 ,
-    "port": 47993,
+    "port": 15432,
     "version": "",
     "try-creative": false
   },
@@ -32,9 +32,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Fuck",
+        "Fuck",
+        "Fuck"
       ]
     },
     "chat-log": true,
